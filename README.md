@@ -16,6 +16,7 @@ I love crafting robust backend systems using **Python**, **PHP**, and **JavaScri
 #### 🌐 Backend Frameworks:
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 #### 🧠 AI & Data Science:
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -48,9 +49,9 @@ Currently deep-diving into:
 ---
 
 ### 📫 Reach Me
-💬 **Email**: [eysofhorus@domain.com](mailto:eysofhorus@domain.com)  
-💼 **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-profile/)  
-🌐 **Portfolio**: [Your Portfolio](https://your-portfolio.com)
+💬 **Email**: [okezieaustinch@yahoo.com](mailto:okezieaustinch@yahoo.com)  
+💼 **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/eyes0fhorus/)  
+🌐 **Portfolio**: [Your Portfolio](https://github.com/eysofhorus)
 
 ---
 
