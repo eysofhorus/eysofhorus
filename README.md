@@ -56,8 +56,8 @@ Currently deep-diving into:
 
 ### 📫 Reach Me
 💬 **Email**: [okezieaustinch@yahoo.com](mailto:okezieaustinch@yahoo.com)  
-💼 **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/eyes0fhorus/)  
-🌐 **Portfolio**: [Your Portfolio](https://github.com/eysofhorus)
+💼 **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/eyes0fhorus/)  
+🌐 **Portfolio**: [My Portfolio](https://github.com/eysofhorus)
 
 ---
 
