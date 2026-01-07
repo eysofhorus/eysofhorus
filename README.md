@@ -50,9 +50,8 @@ Currently deep-diving into:
 ---
 
 ### 📈 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eysofhorus&theme=tokyonight)
-
 ![Commit History](https://github-readme-activity-graph.vercel.app/graph?username=eysofhorus&theme=tokyonight&area=true&hide_border=false&activity=commits)
+
 
 
 ---
