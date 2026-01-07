@@ -43,19 +43,6 @@ Currently deep-diving into:
 
 ---
 
-### 📊 My GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=eysofhorus&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eysofhorus&layout=compact&theme=tokyonight&langs_count=8&count_private=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eysofhorus&layout=compact&theme=tokyonight)
-
-### 🔥 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eysofhorus&theme=tokyonight)
-
-
----
-
 ### 📈 Activity Graph
 ![Commit History](https://github-readme-activity-graph.vercel.app/graph?username=eysofhorus&theme=tokyonight&area=true&hide_border=false&activity=commits)
 
