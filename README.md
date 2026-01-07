@@ -44,8 +44,8 @@ Currently deep-diving into:
 ---
 
 ### 📊 My GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=eysofhorus&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eysofhorus&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=eysofhorus&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eysofhorus&layout=compact&theme=tokyonight&langs_count=8&count_private=true&cache_seconds=1800)
 
 ---
 
